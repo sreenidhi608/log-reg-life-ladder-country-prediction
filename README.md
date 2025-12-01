@@ -1,4 +1,4 @@
-
+## LifeLift: Predicting Country Happiness Scores
 ## 📊 Dataset
 
 - **Source**: [World Happiness Report 2018](https://worldhappiness.report/)
